@@ -1,5 +1,6 @@
 # G1 CYBERDECK
 
+FYI IT IS STILL IN BETA
 A portable wireless Linux cyberdeck powered by a Raspberry Pi 3 Model A+ and an Innioasis G1 Android music player.
 
 ## 🚀 Project Overview
